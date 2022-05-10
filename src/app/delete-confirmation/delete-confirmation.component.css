@@ -1,0 +1,13 @@
+.d1{
+    border: white;
+    border-style: dotted;
+    margin-top:5px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 500px;
+}
+.c1{
+    margin-left: 5px;
+}

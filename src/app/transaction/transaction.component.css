@@ -1,0 +1,17 @@
+table{
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+}
+tr{
+color: black;
+border: black solid 1px;
+
+}
+th{
+    border: black solid 1px;
+}
+.home{
+    margin-left: 650px;
+    color: blue;
+}

@@ -1,0 +1,12 @@
+.b1{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.a1{
+    margin-top: 20px;
+}
+.c1{
+    background-color: grey;
+    opacity: 0;
+}
